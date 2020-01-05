@@ -1,6 +1,6 @@
 # testflask
 testflask
 
-HiWang！
+HiKun！
 
 readme-edits.
